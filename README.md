@@ -5,6 +5,7 @@
 - DDD
 - Typescript
 - Axios
+- JsToXml
 - express
 - Docker (database)
 - mongodb Lib
