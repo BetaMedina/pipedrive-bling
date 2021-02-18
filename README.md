@@ -47,7 +47,7 @@ npm run dev
 - Run `npm run test:ci` para o coverage dos dados
 
 
-## Guia rápido de sobrevivência com o Nasa BOT
+## Guia rápido de sobrevivência
 
 Urls cadastradas:
 |    Comando     |Ação                           
